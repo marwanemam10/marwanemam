@@ -1,7 +1,7 @@
-<video width="100%" controls>
-  <source src="https://github.com/marwanemam10/marwanemam/blob/main/Light%20Blue%20Sci-Fi%20Futuristic%20Animated%20Logo.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwanemam10/marwanemam/main/Black%20and%20Purple%20Gradient%20Modern%20Data%20Analyst%20Presentation.png" width="100%" alt="Marwan Sobhy | Data Science Banner">
+</p>
+
 
 
 

@@ -1,4 +1,4 @@
-![Marwan Banner](https://raw.githubusercontent.com/marwanemam/marwanemam/main/[marwan-banner.png](https://github.com/marwanemam10/marwanemam/blob/main/Light%20Blue%20Sci-Fi%20Futuristic%20Animated%20Logo.mp4))
+
 
 
 <h2 align="center">Hi 👋, I'm Marwan — Data Scientist & Data Analyst</h2>

@@ -1,12 +1,4 @@
-<!-- يمكنك وضع بانر خاص بك هنا -->
-<<!---![Old Banner](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
-![Marwan Sobhy](https://raw.githubusercontent.com/marwanemam/marwanemam/main/marwan-banner.png)
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwanemam/your-repo/main/profile-pic.png" width="120px" alt="Marwan Logo">
-</p>
 
 <h2 align="center">Hi 👋, I'm Marwan — Data Scientist & Data Analyst</h2>
 

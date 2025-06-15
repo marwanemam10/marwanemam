@@ -1,3 +1,4 @@
+![Marwan Banner](https://raw.githubusercontent.com/marwanemam/marwanemam/main/marwan-banner.png)
 
 
 <h2 align="center">Hi 👋, I'm Marwan — Data Scientist & Data Analyst</h2>
